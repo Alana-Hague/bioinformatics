@@ -1,0 +1,12 @@
+Mei_Xiang	female	1998_July_22	24	National_Zoo_in_Washington_DC
+Xi_Lan	male	2008_August_30	14	Chengdu_Panda_Base
+Xiao_Liwu	male	2012_July_29	10	Dujiangyan_China_Giant_Panda_Conservation_Research_Center
+Xiang_Xiang	female	2017_June_12	5	Ueno_Zoo
+Xin_Xin	female	1990_July_1	32	Chapultepec_Zoo
+lsname	sex	birthday	age	location
+Bei_Bei	male	2015_August_22	7	Bifengxia_Panda_Base
+Hua_Mei	female	1999_August_21	23	Bifengxia_Panda_Base
+Mei_Sheng	male	2003_August_3	19	Bifengxia_Panda_Base
+Su_Lin	female	2005_August_2	17	Bifengxia_Panda_Base
+Tai_Shan	male	2005_July_9	17	Bifengxia_Panda_Base
+Zhen_Zhen	female	2007_August_3	15	Bifengxia_Panda_Base

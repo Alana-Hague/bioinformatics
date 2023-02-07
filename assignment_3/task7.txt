@@ -1,0 +1,3 @@
+lsname	sex	birthday	age	location
+Gu_Gu	male	1999_September_25	23	Beijing_Zoo
+Po	female	2010_November_3	12	Chengdu_Panda_Base
