@@ -10,7 +10,9 @@ name="Alana"
 echo $greeting $name
 
 #task_2
-#directories have been created 
+mkdir learning_bash 
+cd learning_bash
+mkdir bioinformatics
 
 #task_3
 #cp transcriptome.fasta /Users/alanahague/BIOS_5970/assignment_2/learning_bash/bioinformatics
