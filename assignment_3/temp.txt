@@ -1,8 +1,32 @@
-lsname birthday
-Bao_Bao 2013_August_23
-Bei_Bei 2015_August_22
-Jia_Panpan 2015_October_13
-Jia_Yueyue 2015_October_13
-Rou_Rou 2016_May_29
-Xiang_Xiang 2017_June_12
-Yuan_Zai 2013_July_6
+location
+Wolong_National_Nature_Reserve
+Bifengxia_Panda_Base
+Calgary_Zoo
+Calgary_Zoo
+Beijing_Zoo
+Bifengxia_Panda_Base
+Calgary_Zoo
+Calgary_Zoo
+Berlin_Zoological_Garden
+Wolong_National_Nature_Reserve
+Chiang_Mai_Zoo
+Zoo_Atlanta
+Chengdu_Panda_Base
+Bifengxia_Panda_Base
+National_Zoo_in_Washington_DC
+Chengdu_Panda_Base
+Duijiangyang_Panda_base
+Bifengxia_Panda_Base
+Bifengxia_Panda_Base
+National_Zoo_in_Washington_DC
+Taipei_Zoo
+Adelaide_Zoo
+Chengdu_Panda_Base
+Dujiangyan_China_Giant_Panda_Conservation_Research_Center
+Ueno_Zoo
+Chapultepec_Zoo
+Atlanta_Zoo
+Edinburgh_Zoo
+Taipei_Zoo
+Duijiangyang_Panda_Base
+Bifengxia_Panda_Base

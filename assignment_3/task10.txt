@@ -1,8 +1,8 @@
-lsname birthday
-Bao_Bao 2013_August_23
-Yuan_Zai 2013_July_6
-Bei_Bei 2015_August_22
-Jia_Panpan 2015_October_13
-Jia_Yueyue 2015_October_13
-Rou_Rou 2016_May_29
-Xiang_Xiang 2017_June_12
+Xiang_Xiang 5
+Rou_Rou 6
+Bei_Bei 7
+Jia_Panpan 7
+Jia_Yueyue 7
+Bao_Bao 9
+Yuan_Zai 9
+Xiao_Liwu 10
