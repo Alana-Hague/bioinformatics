@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Task 1
-makeblastdb -in ./mystery_transcripts.fasta -dbtype nucl, prot -out ./mystery_transcript_data
+makeblastdb -in ./mystery_transcripts.fasta -dbtype nucl -out ./mystery_transcript_data
 
 # Task 2
-makeblastdb -in ./mystery_protiens.fasta -dbtype nucl, prot -out ./mystery_transcript_data
+makeblastdb -in ./mystery_protiens.fasta -dbtype prot -out ./mystery_prot_data
 
 # Task 3
 blastn -query ./mystery_nucleotide_query.fasta mystery_transcripts.fasta &&
@@ -25,9 +25,9 @@ blastn -evalue 1e-5 mystery_protiens.fasta &&
 awk -F':' '{printf "%s%s", $15, (/^Grade/)?"\n":"\t|"}' mystery_protiens.fasta
 
 # Task 7
-blastn -query ./mystery_protien_query.fasta mystery_protiens.fasta &&
-echo blastn -c -evalue 1e-5 mystery_protiens.fasta 
-P010027090796
+blastp -query ./mystery_protien_query.fasta -task blastp ./mystery_prot_data -out result.txt &&
+result.txt -evalue 1e-3 -max_hsps 5
+# Output: 914
 
 # Task 8
 Coffea Arabica
