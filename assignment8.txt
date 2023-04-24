@@ -1,0 +1,15 @@
+1. Homo Sapiens (Humans)
+
+2. MC1R (melanocortin 1 receptor)
+
+3. Rank 1 Target Sequence: CATCGCCTACTACGACCACGTGG
+   Rank 1 Genomic Location: chr16:89919795
+
+4. Left Primer Sequence: CATCTCCATCTTCTACGCACTG
+   Left Primer Coordinates: chr16:89919687-89919709
+   
+   Right Primer Sequence: ACCAGCATAGCCAGGAAGAAGA
+   Right Primer Coordinates: chr16:89919839-89919861
+
+
+5. If you knock out the MC1R gene from humans, expect fully red hair and pigmentation on this person due to the inactivity of the MC1R gene. 
